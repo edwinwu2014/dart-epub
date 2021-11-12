@@ -10,6 +10,9 @@ dependencies:
   archive: "^1.0.33"
   xml: ">=2.6.0 <4.0.0"
   image: "^1.1.30"
+# dev_dependencies:
+#   test: "^0.12.0"
+#   path: "^1.5.1"
 dev_dependencies:
-  test: "^0.12.0"
-  path: "^1.5.1"
+  flutter_test:
+    sdk: flutter
